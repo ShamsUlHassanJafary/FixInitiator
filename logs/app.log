@@ -1,0 +1,6 @@
+05-05 11:14 - INFO  - c.e.f.FixInitiatorApplication - Starting FixInitiatorApplication using Java 17.0.7 with PID 11660 (D:\iwork\fix-initiator\target\classes started by Shamsi in D:\iwork\fix-initiator)
+05-05 11:14 - INFO  - c.e.f.FixInitiatorApplication - No active profile set, falling back to 1 default profile: "default"
+05-05 11:14 - INFO  - c.e.f.FixInitiatorApplication - Started FixInitiatorApplication in 2.678 seconds (process running for 3.249)
+05-05 11:23 - INFO  - c.e.f.FixInitiatorApplication - Starting FixInitiatorApplication using Java 17.0.7 with PID 8692 (D:\iwork\fix-initiator\target\classes started by Shamsi in D:\iwork\fix-initiator)
+05-05 11:23 - INFO  - c.e.f.FixInitiatorApplication - No active profile set, falling back to 1 default profile: "default"
+05-05 11:23 - INFO  - c.e.f.FixInitiatorApplication - Started FixInitiatorApplication in 2.763 seconds (process running for 3.28)
